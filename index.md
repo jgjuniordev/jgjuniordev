@@ -1,37 +1,53 @@
-## Seja Bem vindo a minha página
+# Olá pessoal eu sou o jgjunior!
+## *Entusiasta e autodidata de tecnologia!*
 
-You can use the [editor on GitHub](https://github.com/jgjuniordev/jgjuniordev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 🐍 Programo em Python
+- 👨‍💻 Estudo KivyMD e SQL
+- 🤝 Voluntariado: Ficha de APH Digital.
+- 💬 Perguntas a vontade...
+- 📫 Me envia sua mensagem por jgjunior.dev@gmail.com
+- 😄 Meu propósito é mudar o mundo!
+- ⚡ Fato curioso: Ainda não fui a lua!
+- 📺 Nostalgia: DragonBallZ
 
-### Markdown
+![Goku.gif](https://github.com/jgjuniordev/jgjuniordev/blob/main/gokuevegeta.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div align = "center">
+  <a href="https://github.com/jgjunior">
+  <img height = "145em" src = "https://github-readme-stats.vercel.app/api?username=jgjuniorcursos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height = "145em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jgjuniorcursos&layout=compact&langs_count=7&theme=dracula" />
+</div>
+<div style = "display: inline_block"> <br>
+  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
-```markdown
-Syntax highlighted code block
+## Banco de dados
+</div>
+<div style = "display: inline_block"> <br>
+  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  
+  
+## Frameworks
+</div>
+<div style = "display: inline_block"> <br>
+  <img align = "center" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jgjuniordev/jgjuniordev/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Designer Skills
+</div>
+<div style = "display: inline_block"> <br>
+  <img align = "center" height = "30" width = "150" src = "https://aleen42.github.io/badges/src/illustrator.svg">
+  <img align = "center" height = "30" width = "150" src = "https://aleen42.github.io/badges/src/photoshop.svg">
+</div>
+  
+  ##
+## Redes Sociais
+<div> 
+  <a href="https://www.youtube.com/channel/UCS8sCP7sPYHLE1mDQq2IOzA" target="_blank"> <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/YouTube-FF0000? style = for-the-badge & logo = youtube & logoColor = white "target =" _ blank "> </a>
+  <a href="https://www.instagram.com/in.comply/" target="_blank"> <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
+ <a href="https://discord.com/channels/@me" target="_blank"> <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
+  <a href="https://www.linkedin.com/in/jos%C3%A9-junior-69b777196" target="_blank"> <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
+ 
+  ![Snake animation](https://github.com/jgjuniordev/jgjuniordev/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
