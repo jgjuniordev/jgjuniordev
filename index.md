@@ -1,5 +1,5 @@
 # SEJA BEM VINDO!
-## *"...Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor..."* "Elon Musk"
+## *"...Quando algo é importante o suficiente, você realiza, mesmo que as chances não estejam a seu favor..."* Elon Musk
 
 
 - 🐍 Programo em Python
