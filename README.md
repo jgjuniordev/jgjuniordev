@@ -10,6 +10,7 @@
 - 😄 Meu propósito é mudar o mundo!
 - ⚡ Fato curioso: Ainda não fui a lua!
 - 📺 Nostalgia: DragonBallZ
+- 📰 Confira meu Blog em (https://jgjuniordev.github.io)
 
 ![Goku.gif](https://github.com/jgjuniordev/jgjuniordev/blob/main/gokuevegeta.gif)
 
