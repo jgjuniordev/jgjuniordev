@@ -3,7 +3,7 @@
 
 
 - 🐍 Programo em Python
-- 👨‍💻 Estudo KivyMD e SQL
+- 👨‍💻 Estudo KivyMD, SQL e Hacking
 - 🤝 Voluntariado: Ficha de APH Digital.
 - 💬 Perguntas a vontade...
 - 📫 Me envia sua mensagem por jgjunior.dev@gmail.com
