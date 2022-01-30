@@ -21,7 +21,7 @@
 </div>
 <div style = "display: inline_block"> <br>
   <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/JavaScript-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 ## Banco de dados
 </div>
