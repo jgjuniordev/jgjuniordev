@@ -1,55 +1,94 @@
-# Olá pessoal eu sou o jgjunior!
+# 👋 Olá pessoal, eu sou o jgjunior!
 ## *Entusiasta e autodidata de tecnologia!*
 
+- 🐍 Programo em **Python**
+- 👨‍💻 Estudo **JavaScript**, **KivyMD**, **SQL**, **JSON**, **FHIR** e **Hacking**
+- 🤝 Voluntário no projeto **Ficha de APH Digital**
+- 💬 Perguntas são sempre bem-vindas!
+- 📫 Entre em contato: **jgjunior.dev@gmail.com**
+- 😄 Meu propósito: **mudar o mundo!**
+- ⚡ Curiosidade: *ainda não fui à Lua!*
+- 📺 Nostalgia favorita: **Dragon Ball Z**
+- 📰 Confira meu blog: [jgjuniordev.github.io](https://jgjuniordev.github.io/jgjuniordev/)
 
-- 🐍 Programo em Python
-- 👨‍💻 Estudo JavaScript, KivyMD, SQL e Hacking
-- 🤝 Voluntariado: Ficha de APH Digital.
-- 💬 Perguntas a vontade...
-- 📫 Me envia sua mensagem por jgjunior.dev@gmail.com
-- 😄 Meu propósito é mudar o mundo!
-- ⚡ Fato curioso: Ainda não fui a lua!
-- 📺 Nostalgia: DragonBallZ
-- 📰 Confira meu Blog em (https://jgjuniordev.github.io/jgjuniordev/)
+![Goku e Vegeta](https://github.com/jgjuniordev/jgjuniordev/blob/main/gokuevegeta.gif)
 
-![Goku.gif](https://github.com/jgjuniordev/jgjuniordev/blob/main/gokuevegeta.gif)
+---
 
-<div align = "center">
-  <a href="https://github.com/jgjunior">
-  <img height = "145em" src = "https://github-readme-stats.vercel.app/api?username=jgjuniordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height = "145em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jgjuniordev&layout=compact&langs_count=7&theme=dracula" />
-</div>
-<div style = "display: inline_block"> <br>
-  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+## 📈 GitHub Stats
 
-## Banco de dados
+<div align="center">
+  <a href="https://github.com/jgjuniordev">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=jgjuniordev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgjuniordev&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
-<div style = "display: inline_block"> <br>
-  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  
-  
-## Frameworks
-</div>
-<div style = "display: inline_block"> <br>
-  <img align = "center" height = "50" width = "50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
 
-## Designer Skills
-</div>
-<div style = "display: inline_block"> <br>
-  <img align = "center" height = "30" width = "150" src = "https://aleen42.github.io/badges/src/illustrator.svg">
-  <img align = "center" height = "30" width = "150" src = "https://aleen42.github.io/badges/src/photoshop.svg">
-</div>
-  
-  ##
-## Redes Sociais
-<div> 
-  <a href="https://www.youtube.com/channel/UCS8sCP7sPYHLE1mDQq2IOzA" target="_blank"> <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/YouTube-FF0000? style = for-the-badge & logo = youtube & logoColor = white "target =" _ blank "> </a>
-  <a href="https://www.instagram.com/in.comply/" target="_blank"> <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- emblema & logo = instagram & logoColor = white "target =" _ blank "> </a>
- <a href="https://discord.com/channels/@me" target="_blank"> <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
-  <a href="https://www.linkedin.com/in/jos%C3%A9-junior-69b777196" target="_blank"> <img align = "center" height = "30" width = "100" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
- 
-  ![Snake animation](https://github.com/jgjuniordev/jgjuniordev/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+---
+
+## 🧰 Tecnologias
+
+### Linguagens e Estruturas de Dados
+
+<p>
+  <img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img height="30" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+</p>
+
+### Banco de Dados
+
+<p>
+  <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+### Frameworks e APIs
+
+<p>
+  <img height="30" src="https://img.shields.io/badge/KivyMD-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/HL7 FHIR-E53935?style=for-the-badge&logo=fhir&logoColor=white"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"/>
+</p>
+
+### Designer Skills
+
+<p>
+  <img height="30" src="https://aleen42.github.io/badges/src/illustrator.svg"/>
+  <img height="30" src="https://aleen42.github.io/badges/src/photoshop.svg"/>
+</p>
+
+---
+
+## 🚨 Projeto em Destaque
+
+🩺 **[Modelo de Interoperabilidade em Saúde](https://github.com/jgjuniordev/Model_interoperabilidade)**  
+Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em **SQLite** e exportação de dados em **JSON** no padrão **HL7 FHIR** para interoperabilidade com sistemas de saúde.
+
+---
+
+## 🌐 Redes Sociais
+
+<p>
+  <a href="https://www.youtube.com/channel/UCS8sCP7sPYHLE1mDQq2IOzA" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/in.comply/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-junior-69b777196" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+![Snake animation](https://github.com/jgjuniordev/jgjuniordev/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+> *"Tecnologia, para mim, é ferramenta de transformação social. Vamos mudar o mundo, um projeto por vez!"*
+
