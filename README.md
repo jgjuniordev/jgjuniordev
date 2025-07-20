@@ -93,7 +93,7 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" height="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
 </p>
 
 <p align="center">
