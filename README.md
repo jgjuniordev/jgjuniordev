@@ -1,5 +1,5 @@
 # 👋 Olá pessoal, eu sou o jgjunior!
-## *Mestrando no PPGINFOS na UFSC - Florianópolis e autodidata de tecnologia!*
+## *Mestrando do PPGINFOS na UFSC - Florianópolis e autodidata de tecnologia!*
 
 - 🐍 Programo em **Python**
 - 👨‍💻 Estudo **JavaScript**, **KivyMD**, **SQL**, **JSON**, **FHIR** e **Hacking**
