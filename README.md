@@ -106,5 +106,6 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
 
 
 
+
 ---
 > *"Tecnologia, para mim, é ferramenta de transformação social. Vamos mudar o mundo, um projeto por vez!"*
