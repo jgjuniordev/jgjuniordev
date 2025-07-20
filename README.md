@@ -5,7 +5,7 @@
 - 👨‍💻 Estudo **JavaScript**, **KivyMD**, **SQL**, **JSON**, **FHIR** e **Hacking**
 - 🤝 Desenvolvi a **1ª Ficha de APH Digital Mobile**
 - 💬 Perguntas são sempre bem-vindas!
-- 📫 Entre em contato: **jgjunior.dev@gmail.com**
+- 📫 Entre em contato: **jgjunior.dev@gmail.com** -ou- **jgjunior.comercial@gmail.com**
 - 😄 Meu propósito: **mudar o mundo!**
 - ⚡ Curiosidade: *ainda não fui à Lua!*
 - 📺 Nostalgia favorita: **Dragon Ball Z**
