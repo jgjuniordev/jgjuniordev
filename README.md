@@ -3,7 +3,7 @@
 
 - 🐍 Programo em **Python**
 - 👨‍💻 Estudo **JavaScript**, **KivyMD**, **SQL**, **JSON**, **FHIR** e **Hacking**
-- 🤝 Voluntário no projeto **Ficha de APH Digital**
+- 🤝 Desenvolvi a **1ª Ficha de APH Digital Mobile**
 - 💬 Perguntas são sempre bem-vindas!
 - 📫 Entre em contato: **jgjunior.dev@gmail.com**
 - 😄 Meu propósito: **mudar o mundo!**
@@ -86,7 +86,23 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
 
 ---
 
-![Snake animation](https://github.com/jgjuniordev/jgjuniordev/blob/output/github-contribution-grid-snake.svg)
+## 🚀 Ciência e Tecnologia em Movimento
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+evolução...;Inovando+com+Python,+FHIR+e+KivyMD!;Tecnologia+salva+vidas." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/ZWXqonP.gif" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/89/?title=Miss%C3%A3o:+Transformar+o+Mundo&color=00ff00" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/jgjuniordev/jgjuniordev/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
