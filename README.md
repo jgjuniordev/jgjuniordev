@@ -93,17 +93,15 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/ZWXqonP.gif" height="200"/>
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://progress-bar.dev/89/?title=Miss%C3%A3o:+Transformar+o+Mundo&color=00ff00" />
+  <strong>🔋 Missão em andamento: Transformar o mundo com tecnologia.</strong>
 </p>
 
 <p align="center">
   <img src="https://github.com/jgjuniordev/jgjuniordev/blob/output/github-contribution-grid-snake.svg"/>
 </p>
-
 ---
-
 > *"Tecnologia, para mim, é ferramenta de transformação social. Vamos mudar o mundo, um projeto por vez!"*
