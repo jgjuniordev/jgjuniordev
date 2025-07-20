@@ -93,7 +93,7 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" height="180"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
 </p>
 
 <p align="center">
@@ -103,5 +103,6 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
 <p align="center">
   <img src="https://github.com/jgjuniordev/jgjuniordev/blob/output/github-contribution-grid-snake.svg"/>
 </p>
+
 ---
 > *"Tecnologia, para mim, é ferramenta de transformação social. Vamos mudar o mundo, um projeto por vez!"*
