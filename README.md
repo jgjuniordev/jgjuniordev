@@ -2,14 +2,15 @@
 ## *Mestrando do PPGINFOS na UFSC - Florianópolis e autodidata de tecnologia!*
 
 - 🐍 Programo em **Python**
-- 👨‍💻 Estudo **JavaScript**, **KivyMD**, **SQL**, **JSON**, **FHIR** e **Hacking**
+- 👨‍💻 Estudo **JavaScript**, **KivyMD**, **SQL**, **JSON**, **FHIR**, **LADDER** e **Hacking**
+- 🛠️ Técnico em Automação Industrial pelo **SENAI de Timbó - SC**
 - 🤝 Desenvolvi a **1ª Ficha de APH Digital Mobile**
 - 💬 Perguntas são sempre bem-vindas!
-- 📫 Entre em contato: **jgjunior.dev@gmail.com** -ou- **jgjunior.comercial@gmail.com**
+- 📫 Contato: **jgjunior.dev@gmail.com** ou **jgjunior.comercial@gmail.com**
 - 😄 Meu propósito: **mudar o mundo!**
 - ⚡ Curiosidade: *ainda não fui à Lua!*
 - 📺 Nostalgia favorita: **Dragon Ball Z**
-- 📰 Confira meu instagram: [(https://www.instagram.com/josejunior.barcellos/?hl=en)]
+- 📰 Confira meu Instagram: [@josejunior.barcellos](https://www.instagram.com/josejunior.barcellos/?hl=en)
 
 ![Goku e Vegeta](https://github.com/jgjuniordev/jgjuniordev/blob/main/gokuevegeta.gif)
 
@@ -34,6 +35,7 @@
   <img height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img height="30" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img height="30" src="https://img.shields.io/badge/LADDER-555555?style=for-the-badge&logo=plc&logoColor=white"/>
 </p>
 
 ### Banco de Dados
@@ -104,8 +106,6 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
   <img src="https://github.com/jgjuniordev/jgjuniordev/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
-
-
-
 ---
+
 > *"Tecnologia, para mim, é ferramenta de transformação social. Vamos mudar o mundo, um projeto por vez!"*
