@@ -9,7 +9,7 @@
 - 😄 Meu propósito: **mudar o mundo!**
 - ⚡ Curiosidade: *ainda não fui à Lua!*
 - 📺 Nostalgia favorita: **Dragon Ball Z**
-- 📰 Confira meu blog: [jgjuniordev.github.io](https://jgjuniordev.github.io/jgjuniordev/)
+- 📰 Confira meu instagram: [(https://www.instagram.com/josejunior.barcellos/?hl=en)]
 
 ![Goku e Vegeta](https://github.com/jgjuniordev/jgjuniordev/blob/main/gokuevegeta.gif)
 
