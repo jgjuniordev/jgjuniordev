@@ -73,7 +73,7 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
   <a href="https://www.youtube.com/channel/UCS8sCP7sPYHLE1mDQq2IOzA" target="_blank">
     <img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/in.comply/" target="_blank">
+  <a href="https://www.instagram.com/josejunior.barcellos/?hl=en" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
@@ -91,4 +91,3 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
 ---
 
 > *"Tecnologia, para mim, é ferramenta de transformação social. Vamos mudar o mundo, um projeto por vez!"*
-
