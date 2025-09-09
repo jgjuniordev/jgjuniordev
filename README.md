@@ -69,6 +69,15 @@ Sistema com interface gráfica (**KivyMD**), geração de PDF, armazenamento em 
 
 ---
 
+## 📚 Identificadores Acadêmicos
+
+<a href="https://orcid.org/0009-0000-5508-3403" target="_blank" rel="noopener noreferrer">
+  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" width="16" style="vertical-align:middle; margin-right:4px;" />
+  https://orcid.org/0009-0000-5508-3403
+</a>
+
+---
+
 ## 🌐 Redes Sociais
 
 <p>
